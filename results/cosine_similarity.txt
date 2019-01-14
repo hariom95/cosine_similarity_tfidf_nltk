@@ -1,4 +1,4 @@
-CCOSINE SIMILARITYS
+CCCOSINE SIMILARITYS
                    100554newsML.txt   100593newsML.txt   100618newsML.txt   130040newsML.txt   137871newsML.txt   
 100554newsML.txt   1.00000000         0.11696533         0.17310706         0.74710164         0.77192476         
 100593newsML.txt   0.11696533         1.00000000         0.07654495         0.09585856         0.10226431         
